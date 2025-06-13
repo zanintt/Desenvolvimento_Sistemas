@@ -4,21 +4,3 @@ function executarOperacao(a, b, Operacao) {
 function multiplicar(x , y) {
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//
-
-
